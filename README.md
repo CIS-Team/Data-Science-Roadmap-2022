@@ -64,8 +64,9 @@ Most learning platforms have integrated code exercises where you don’t need to
 more interesting bits.</i><br>
 [Specializations (data structures-algorithms)](https://www.coursera.org/specializations/data-structures-algorithms)
 
-**1. Descriptive Stats.** <br>
+**1. Descriptive Statistics** <br>
 &emsp;&emsp;&emsp;:video_camera: [Intro to descriptive statistics](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827)<br>
+&emsp;&emsp;&emsp;:video_camera: [Statistics Fundamentals - StatQuest - Youtube](https://www.youtube.com/playlist?list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9)<br>
 &emsp;&emsp;&emsp;:closed_book: [Online statistics education](http://onlinestatbook.com/Online_Statistics_Education.pdf)<br>
 &emsp;&emsp;&emsp;:closed_book: Intro to descriptive statistics [Article1](https://medium.com/m/global-identity?redirectUrl=https%3A%2F%2Ftowardsdatascience.com%2Fdescriptive-statistics-f2beeaf7a8df) & [Article2](https://medium.com/m/global-identity?redirectUrl=https%3A%2F%2Ftowardsdatascience.com%2Fintro-to-descriptive-statistics-252e9c464ac9)<br>
 &emsp;&emsp;&emsp;:video_camera: [Arabic Course](https://www.youtube.com/watch?v=d5jh5mmwcKI&list=PLY99ZSsxRyJiu6kb4WRRpeEFqK1pAr-EO)<br>
@@ -77,7 +78,15 @@ more interesting bits.</i><br>
 &emsp;&emsp;&emsp;:video_camera: [Arabic Course](https://www.youtube.com/playlist?list=PL158D091D26F47358)<br>
 &emsp;&emsp;&emsp;:closed_book: [Introduction to Probability](https://drive.google.com/file/d/15Y0oFNHQRls1qvQNvO3DFLJVhIZvUjTD/view?usp=sharing)<br>
 
-**3. Python**<br>
+**3. Programming Languages**<br>
+
+&emsp;:small_blue_diamond:*R* - *good tool for visualization and statistical analysis.*<br>
+        &emsp;&emsp;&emsp;:video_camera: [Introduction to R (Datacamp)](https://www.datacamp.com/courses/free-introduction-to-r)<br>
+        &emsp;&emsp;&emsp;:video_camera: [Data Science Specialization - coursera](https://www.coursera.org/specializations/jhu-data-science)<br>
+        &emsp;&emsp;&emsp;:closed_book: [An Introduction to R](https://cran.r-project.org/doc/manuals/R-intro.pdf)<br>
+        &emsp;&emsp;&emsp;:closed_book: [R for Data Science](https://r4ds.had.co.nz/)<br>
+
+&emsp;:small_blue_diamond:*Python*:100: <br>
         &emsp;&emsp;&emsp;:video_camera: [Introduction to Python Programming](https://www.udacity.com/course/introduction-to-python--ud1110)<br>
         &emsp;&emsp;&emsp;:video_camera: [OOP](https://learn.datacamp.com/courses/object-oriented-programming-in-python)<br>
         &emsp;&emsp;&emsp;:video_camera: Arabic - [Hassouna](https://www.youtube.com/watch?v=MxYLqE3Ils8&list=PLHIfW1KZRIfnM9y0sQRwjVz2-IwvnEJep) | [Elzero](https://www.youtube.com/watch?v=mvZHDpCHphk&list=PLDoPjvoNmBAyE_gei5d18qkfIe-Z8mocs)<br>
@@ -122,15 +131,16 @@ Note: it's already mentioned in the above probability course <br>
         &emsp;&emsp;&emsp;:video_camera: [IBM-EDA for Machine Learning](https://www.coursera.org/learn/ibm-exploratory-data-analysis-for-machine-learning) <br>
 
 **10. Dashboards**<br>
- &emsp;*Tableau*<br>
-        &emsp;&emsp;&emsp;:closed_book: [Tutorial](https://www.datacamp.com/community/tutorials/data-visualisation-tableau)<br>
-        &emsp;&emsp;&emsp;:video_camera: [docs](https://www.tableau.com/learn/training/20201)<br>
-        &emsp;&emsp;&emsp;:video_camera: [course](https://learn.datacamp.com/courses/introduction-to-tableau)<br>
+
 &emsp;*Power BI*<br>
         &emsp;&emsp;&emsp;:video_camera: [Power BI Desktop - Coursera](https://www.coursera.orghttps://powerbi.microsoft.com/en-us/learning//projects/power-bi-desktop)<br>
         &emsp;&emsp;&emsp;:video_camera: [Power BI training](https://powerbi.microsoft.com/en-us/learning/)<br>
         &emsp;&emsp;&emsp;:video_camera: [Arabic - Youtube](https://www.youtube.com/watch?v=ykvAWKML9Gk&list=PLof3yw6ZFPFhV75Ptf-5Q88bgUtLOBvOw)<br>
-
+ &emsp;*Tableau*<br>
+        &emsp;&emsp;&emsp;:closed_book: [Tutorial](https://www.datacamp.com/community/tutorials/data-visualisation-tableau)<br>
+        &emsp;&emsp;&emsp;:video_camera: [docs](https://www.tableau.com/learn/training/20201)<br>
+        &emsp;&emsp;&emsp;:video_camera: [course - datacamp](https://learn.datacamp.com/courses/introduction-to-tableau)<br>
+        &emsp;&emsp;&emsp;:video_camera: [Simplilearn - Youtube](https://learn.datacamp.com/courses/introduction-to-tableau)<br>
 
 
 **11. SQL and DB**<br>
@@ -265,7 +275,17 @@ Deep Learning - MIT](http://introtodeeplearning.com/?fbclid=IwAR35rIygYlCn84DV7m
         &emsp;&emsp;&emsp;:video_camera: [Specialization](https://www.coursera.org/specializations/probabilistic-graphical-models)<br>
 ***
 
-**Tasks and Projects will be added soon.** :hourglass_flowing_sand:	<br><br>
+### :pushpin:PROJECTS :arrow_double_down:<br>
+&emsp;&emsp;&emsp;:movie_camera:[Deena Gergis - End to end Project](https://www.youtube.com/playlist?list=PLatl6hdtJ0RnbkReSAuel6PeCPO155FpG)<br>
+&emsp;&emsp;&emsp;:movie_camera:[Machine Learning Projects - Youtube](https://www.youtube.com/watch?v=fiz1ORTBGpY&list=PLfFghEzKVmjvuSA67LszN1dZ-Dd_pkus6)<br>
+&emsp;&emsp;&emsp;:computer:[Top 10 Data Science Projects for Beginners](https://www.kdnuggets.com/2021/06/top-10-data-science-projects-beginners.html)<br>
+&emsp;&emsp;&emsp;:computer:[12 Data Science Projects for Beginners and Experts](https://builtin.com/data-science/data-science-projects)<br>
+&emsp;&emsp;&emsp;:computer:[Data Science Projects & Ideas](https://nevonprojects.com/data-science-projects-solutions/)<br>
+&emsp;&emsp;&emsp;:computer:[Top 310+ Machine Learning Projects for 2023](https://data-flair.training/blogs/machine-learning-project-ideas/)<br>
+&emsp;&emsp;&emsp;:computer:[10 End-to-End Guided Data Science Projects](https://pub.towardsai.net/10-end-to-end-guided-data-science-projects-to-build-your-portfolio-b7b9047fe6c9)<br>
+&emsp;&emsp;&emsp;:movie_camera:[Real-World ML Tutorial w/ Scikit Learn](https://www.youtube.com/watch?v=M9Itm95JzL0)<br>
+&emsp;&emsp;&emsp;:movie_camera:[End To End ML Project With Dockers,Github Actions And Deployment](https://www.youtube.com/watch?v=MJ1vWb1rGwM)<br>
+&emsp;&emsp;&emsp;:computer:[Python Codes in Data Science](https://github.com/RubensZimbres/Repo-2017/)<br>
 ***
 
 ### :pushpin: Common Tools :arrow_heading_down:<br>
@@ -363,7 +383,9 @@ When we talk about top data science competitions, [**Kaggle**](https://www.kaggl
         &emsp;&emsp;&emsp; [FWD - (The 3 Levels)](https://egfwd.com/?fbclid=IwAR1phYmHHgi0L4E9nOPZcSfAdHWsDs9EvBh3dJgO6gXN4B1A-nV8vspGggs)<br>
         &emsp;&emsp;&emsp; [Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics)<br>
         &emsp;&emsp;&emsp; [IBM Data Analyst Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-analyst?fbclid=IwAR1IajEEe2yydVWRt3hbj4qLioXP6oR-fdbw8f1kHAVpAXSA4Z8Eww1Y-fs)<br>
+        &emsp;&emsp;&emsp; [Google Advanced Data Analytics Professional Certificate :new:](https://www.coursera.org/professional-certificates/google-advanced-data-analytics?irclickid=zzy33K1O0xyNUAmxqWUjDwedUkAQlBwwJ21EwA0&irgwc=1&utm_medium=partners&utm_source=impact&utm_campaign=2624140&utm_content=b2c)<br>
         &emsp;&emsp;&emsp;*Note: A good knowledge & projects in just [Excel](https://www.instagram.com/p/Cea-aa4PSfa/), SQL & Power BI / Tableau can bring you great opportunities*<br>
+        &emsp;&emsp;&emsp;&emsp;&emsp;- Excel More Resources: ([Arabic](https://www.youtube.com/watch?v=9Z5MPeyuLhg&t=397s) - [Books](https://drive.google.com/drive/folders/1CAUKDb5jv1pMez1WO74ogkpX44UMW_ky))<br>
 
   
 :pushpin:	**[Data Engineering](https://youtu.be/qWru-b6m030) Recommendations.**<br>
