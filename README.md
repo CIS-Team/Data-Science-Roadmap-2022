@@ -65,7 +65,7 @@ more interesting bits.</i><br>
 [Specializations (data structures-algorithms)](https://www.coursera.org/specializations/data-structures-algorithms)
 
 **1. Descriptive Statistics** <br>
-&emsp;&emsp;&emsp;:video_camera: [Intro to descriptive statistics](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827)<br>
+&emsp;&emsp;&emsp;:video_camera: [Intro to descriptive statistics](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827) | Same Course [on YouTube](https://www.youtube.com/playlist?list=PLAwxTw4SYaPn22DmaF6x8JtG4TeWOJk_1)<br>
 &emsp;&emsp;&emsp;:video_camera: [Statistics Fundamentals - StatQuest - Youtube](https://www.youtube.com/playlist?list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9)<br>
 &emsp;&emsp;&emsp;:closed_book: [Online statistics education](http://onlinestatbook.com/Online_Statistics_Education.pdf)<br>
 &emsp;&emsp;&emsp;:closed_book: Intro to descriptive statistics [Article1](https://medium.com/m/global-identity?redirectUrl=https%3A%2F%2Ftowardsdatascience.com%2Fdescriptive-statistics-f2beeaf7a8df) & [Article2](https://medium.com/m/global-identity?redirectUrl=https%3A%2F%2Ftowardsdatascience.com%2Fintro-to-descriptive-statistics-252e9c464ac9)<br>
@@ -273,9 +273,15 @@ Deep Learning - MIT](http://introtodeeplearning.com/?fbclid=IwAR35rIygYlCn84DV7m
         &emsp;&emsp;&emsp;:video_camera: [Deploy Models with TensorFlow Serving and Flask](https://www.coursera.org/projects/deploy-models-tensorflow-serving-flask)<br>
         &emsp;&emsp;&emsp;:video_camera: [How to Deploy a Machine Learning Model to Google Cloud - Daniel Bourke](https://www.youtube.com/watch?v=fw6NMQrYc6w)<br>
         &emsp;&emsp;&emsp;if you`re intersted in more deployment methods, search for (_FastAPI - Heroku - chitra_)<br>
-
-**9. Probabilistic Graphical Models** <br>       
+        
+**9. MLOps** : is a combination of Model Deployment, Model Serving, Model Monitoring, and Model Maintenance.       
+        &emsp;&emsp;&emsp;:link: [MLOps-zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp)<br>
+        &emsp;&emsp;&emsp;:link: [MLOps-guide](https://github.com/Nyandwi/machine_learning_complete/blob/main/010_mlops/1_mlops_guide.md)<br>
+        &emsp;&emsp;&emsp;:closed_book: [Practical MLOps](https://drive.google.com/file/d/17RhXQ2ix6rFMaas3HI7bnM_GL8lS7u3f/view?usp=sharing)<br>
+**10. Probabilistic Graphical Models**    
         &emsp;&emsp;&emsp;:video_camera: [Specialization](https://www.coursera.org/specializations/probabilistic-graphical-models)<br>
+        
+
 ***
 
 ### :pushpin:PROJECTS :arrow_double_down:<br>
