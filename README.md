@@ -185,6 +185,7 @@ Note: it's already mentioned in the above probability course <br>
 **2. Machine Learning**<br>
          &emsp;&emsp;&emsp;:video_camera: [Coursera - Old Course by Andrew Ng (Octave/Matlab)](https://www.coursera.org/learn/machine-learning)<br>
          &emsp;&emsp;&emsp;:video_camera: [Coursera Andrew`s new ML Specialization (Python)](https://www.coursera.org/specializations/machine-learning-introduction?_hsenc=p2ANqtz-_R9x3Nm07uCw6YAw9VpCpdjRdfaUFyxdOcvgDljRt7j_NXiahN1plnI_Ob9jn0jSNipuE_Y08llrfPSt_1P7EBvj4LuImpBTKG3bsR6Z9bzjzBoRY&_hsmi=216611333&action=enroll&utm_campaign=mls-launch-2022&utm_content=216613012&utm_medium=email&utm_source=hs_email#courses)<br>
+         &emsp;&emsp;&emsp;:video_camera: [Machine Learning - StatQuest - YouTube](https://www.youtube.com/playlist?list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF)<br>
          &emsp;&emsp;&emsp;:video_camera: [Machine Learning Stanford Full Course on YouTube by Andrew](https://www.youtube.com/watch?v=PPLop4L2eGk&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN)<br>
          &emsp;&emsp;&emsp;:video_camera: [CS480/680 Intro to Machine Learning - Spring 2019 - University of Waterloo](https://www.youtube.com/playlist?list=PLdAoL1zKcqTW-uzoSVBNEecKHsnug_M0k)<br>
          &emsp;&emsp;&emsp;:video_camera: [SYDE 522 – Machine Intelligence (Winter 2018, University of Waterloo)](https://www.youtube.com/playlist?list=PL4upCU5bnihwCX93Gv6AQnKmVMwx4AZoT)<br>
@@ -222,7 +223,7 @@ APIs <br>
         &emsp;&emsp;&emsp;:closed_book: [Kaggle ML explainability](https://www.kaggle.com/learn/machine-learning-explainability)<br/>
 <h4><i>After finishing this level apply to 2 or 3 good sized projects.</i></h4>
 
-<i>Read this book, please</i> :open_book: [Introduction to Statistical Learning with Applications in R](https://github.com/Moataz-Elmesmary/Data-Science-Roadmap/blob/main/Introduction%20to%20Statistical%20Learning%20with%20Applications%20in%20R.pdf) بقولك اقرأه<br>
+<i>Read this book, please</i> :open_book: [Introduction to Statistical Learning with Applications in R](https://github.com/Moataz-Elmesmary/Data-Science-Roadmap/blob/main/Introduction%20to%20Statistical%20Learning%20with%20Applications%20in%20R.pdf) بقولك اقرأه<img src="https://c.tenor.com/SOVMSXmWB1kAAAAi/tony-star-jumping.gif" width="35"><br>
 ***
 ## :beginner: Advanced :beginner:
 
@@ -256,8 +257,9 @@ Deep Learning - MIT](http://introtodeeplearning.com/?fbclid=IwAR35rIygYlCn84DV7m
         &emsp;&emsp;&emsp;:video_camera: [Advanced Data Science with IBM Specialization](https://www.coursera.org/specializations/advanced-data-science-ibm)<br>
         
 **5. NLP** <br>
-        &emsp;&emsp;&emsp;:video_camera: [Specialization](https://www.coursera.org/specializations/natural-language-processing)<br>
+        &emsp;&emsp;&emsp;:video_camera: [Specialization - Coursera](https://www.coursera.org/specializations/natural-language-processing)<br>
         &emsp;&emsp;&emsp;:video_camera: [Arabic - Ahmed El Sallab](https://www.youtube.com/playlist?list=PLxmZ0b-n395VxzEUL8-Dy257zSqYZe4yU)<br>
+        &emsp;&emsp;&emsp;:video_camera: [Stanford CS224N - YouTube](https://www.youtube.com/playlist?app=desktop&list=PLoROMvodv4rMFqRtEuo6SGjY4XbRIVRd4&si=k91y-bepIiPjHMrj&fbclid=IwAR2h6KcYboHCjG9YBIEB08srgYSesqZ5UHXr0ni8yxOqrxNV3-_TGxq0Csg)<br>
         &emsp;&emsp;&emsp;:video_camera: [Introduction to Natural Language Processing in Python](https://www.datacamp.com/courses/natural-language-processing-fundamentals-in-python)<br>
 &emsp;:small_orange_diamond:*LLMS [What`s Large Language Model](https://www.snowflake.com/guides/what-large-language-model-and-what-can-llms-do-data-science)?* <br>
         &emsp;&emsp;&emsp;:video_camera: [Generative AI with LLMs](https://www.deeplearning.ai/courses/generative-ai-with-llms/)<br>
@@ -282,8 +284,14 @@ Deep Learning - MIT](http://introtodeeplearning.com/?fbclid=IwAR35rIygYlCn84DV7m
         &emsp;&emsp;&emsp;:closed_book: [Practical MLOps](https://drive.google.com/file/d/17RhXQ2ix6rFMaas3HI7bnM_GL8lS7u3f/view?usp=sharing)<br>
 **10. Probabilistic Graphical Models**    
         &emsp;&emsp;&emsp;:video_camera: [Specialization](https://www.coursera.org/specializations/probabilistic-graphical-models)<br>
-        
+<p align="center">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
+:star2:	<i>Read these books, they will be beneficial to you.</i><br>
+&emsp; :open_book: [Bayesian Reasoning and Machine Learning](https://drive.google.com/file/d/18fh0orqSNAaIyhLkVwh9cGuWBywCBbuw/view?usp=sharing)<br>
+&emsp; :open_book: [The Elements of Statistical Learning](https://drive.google.com/file/d/1ePRkuB9Zm5Fkw-1-VG8prQXfj8pI6dWX/view?usp=sharing)<br>
+&emsp; :open_book: [Pattern Recognition and Machine Learning - Bishop](https://drive.google.com/file/d/1QkQj_azL6O7qUzshB8lPzueYWj0TRwEu/view?usp=sharing) (Advanced)<br>
+##### &emsp;&emsp; <i> Recommended by [Eng.Mohamed Hammad](https://www.linkedin.com/posts/mohamed-hammad-a720a622_%D9%83%D8%AA%D8%A7%D8%A8-%D9%83%D9%84-%D9%85%D8%B1%D9%87-%D8%A7%D8%AD%D8%AA%D8%A7%D8%AC%D9%87-%D9%88%D8%A7%D8%B1%D8%AC%D8%B9%D9%84%D9%87-%D8%A7%D8%A8%D9%82%D9%8A-%D8%B9%D8%A7%D9%88%D8%B2-%D9%83%D9%84-%D8%A7%D9%84%D9%84%D9%8A-activity-7080526619525693441-nNn0?utm_source=share&utm_medium=member_desktop).</i> <img src="https://media.giphy.com/media/mBYkXvLxkHZFmqBHIC/giphy.gif" width=50px height=40px>
 ***
 
 ### :pushpin:PROJECTS :arrow_double_down:<br>
@@ -362,10 +370,12 @@ Deep Learning - MIT](http://introtodeeplearning.com/?fbclid=IwAR35rIygYlCn84DV7m
 
 19. [Tensorflow Cheat Sheet](https://github.com/kailashahirwar/cheatsheets-ai/blob/master/PDFs/Tensorflow.pdf)
 
-20. [Machine Learning Test Cheat Sheet](https://www.cheatography.com/lulu-0012/cheat-sheets/test-ml/pdf/)</details> 
+20. [Machine Learning Test Cheat Sheet](https://www.cheatography.com/lulu-0012/cheat-sheets/test-ml/pdf/)
+
+21. [Machine Learning Cheat Sheets (Recommended Guide)](https://drive.google.com/file/d/1rQRJvWk5s9rUCesri0apxutbF4eDHR69/view?usp=sharing) *راجع المواضيع اللي في الشيت دي يا عزيزي وشوف اللي ناقصك* </details> 
 ***
 
-### The best way to practice is to take part in competitions.:trophy: :trophy:	<br>
+### The best way to practice is to take part in competitions. :trophy::trophy: <img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif"  width="30px" height="30px"><img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif"  width="30px" height="30px">	<br>
 **Competitions will make you even more proficient in Data Science.**<br>
 When we talk about top data science competitions, [**Kaggle**](https://www.kaggle.com/) is one of the most popular platforms for data science. Kaggle has a lot of competitions where you can participate according to your knowledge level.<br>
 
@@ -405,7 +415,10 @@ When we talk about top data science competitions, [**Kaggle**](https://www.kaggl
         &emsp;&emsp;&emsp; [Roadmap 2](https://github.com/datastacktv/data-engineer-roadmap)<br>
         &emsp;&emsp;&emsp; [IBM Data Engineering Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-engineer)<br>
 ***
-<details><summary>:file_folder: <h4>CV / Resumes :memo: </h4>
+<details><summary>:file_folder: <b>CV / Resumes :memo: </b> &emsp;
+ <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="75">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=فاكرني+هسيبك+تهبده+؟؟&size=17">
 </summary>
   
 - [Common mistakes by Yehia Arafa Mostafa](https://www.facebook.com/yehia.arafa.mostafa/posts/110086229517000)<br>
@@ -419,14 +432,14 @@ When we talk about top data science competitions, [**Kaggle**](https://www.kaggl
 &emsp;&emsp;:video_camera:[Video 1](https://www.youtube.com/watch?v=R0hsJiNxdDE)<br>
 &emsp;&emsp;:video_camera:[Video 2](https://www.youtube.com/watch?v=CrTO0hrC-zQ)
 </details>
-  
+
 ***
 :pushpin: [<b><i>Data & AI Companies in Egypt</i></b>](https://trello.com/b/u4HH9Anu/data-ai-jobs-in-egypt) &emsp; - &emsp; [<i>AI/ML Driven Companies In Egypt</i>](https://github.com/harryadel/AI-ML-Driven-Companies-In-Egypt)
-*** 
-## Contact Me :iphone:	 <br>
+***
+
+<h2>Contact Me :iphone:</h2> 	 <br>
   
 <a href="https://www.facebook.com/MoatazElmesmary/" title="Facebook"><img src="https://img.shields.io/badge/Facebook-%234267B2?style=flat&logo=Facebook&logoColor=white"/></a>
 <a href="https://twitter.com/MoatazElmesmary" title="twitter"><img src="https://img.shields.io/twitter/url?label=twitter&style=social&url=https%3A%2F%2Fimg.shields.io%2Ftwitter%2F%3Flabel%3Dtwitter%26style%3Dsocial"/></a>
-<a href="https://www.linkedin.com/in/MoatazElmesmary/" title="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
-  
-
+<a href="https://www.linkedin.com/in/MoatazElmesmary/" title="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a><h1 align="center">
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=26&color=%23DFC6B4&center=true&vCenter=true&lines=Show+Some+❤️;By+Starring+This+Repo⭐️;I+Keep+It+Up-To-Date;لاڤ+يو+أول)](https://git.io/typing-svg)</h1>
