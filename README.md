@@ -239,6 +239,7 @@ Deep Learning - MIT](http://introtodeeplearning.com/?fbclid=IwAR35rIygYlCn84DV7m
         &emsp;&emsp;&emsp;:closed_book: [github of Dive into DL](https://github.com/d2l-ai/d2l-en?fbclid=IwAR0QN35b-NHHWq_zKISA1cbI063aRqqoKqR_0e3cpnT5h58GkcNbCIJs3iw)<br>
         &emsp;&emsp;&emsp;:video_camera: [Stanford Lecture - Convolutional Neural Networks for Visual Recognition](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)<br>
         &emsp;&emsp;&emsp;:video_camera: [University of Waterloo - ML / DL](https://www.youtube.com/playlist?list=PLdAoL1zKcqTW-uzoSVBNEecKHsnug_M0k)<br>
+        &emsp;&emsp;&emsp;:closed_book: [Deep Learning for coders with fastai & PyTorch](https://dl.ebooksworld.ir/books/Deep.Learning.for.Coders.with.fastai.and.PyTorch.Howard.Gugger.OReilly.9781492045526.EBooksWorld.ir.pdf)<br>
 
 
 **2. Tensorflow**<br>
@@ -416,11 +417,12 @@ When we talk about top data science competitions, [**Kaggle**](https://www.kaggl
 :pushpin:	**[Data Engineering](https://youtu.be/qWru-b6m030) Recommendations.**<br>
         &emsp;&emsp;&emsp; Books (:closed_book: [Fundamentals of Data Engineering](https://drive.google.com/file/d/1CbQFN0Lw8o6v4KlF64LsCyaooMccT45T/view?usp=sharing) &
         :closed_book: [Designing Data-Intensive Applications](https://drive.google.com/file/d/1CrzA--WWNcxxQwLqzg1yPfiI3FaEo49z/view?usp=sharing))<br>
-        &emsp;&emsp;&emsp; For Arab, I recommend 2 YouTube Channels: ([Garage Education](https://www.youtube.com/@GarageEducation) & [Big Data بالعربي](https://www.youtube.com/playlist?list=PLrooD4hY1QqAK5pbBpcthLuMa-cXnXJLE))<br> 
+        &emsp;&emsp;&emsp; Arabic Podcast, [Starting a Career in Data Engineering.](https://www.youtube.com/watch?v=OtaBhXjrbX4)<br>
+        &emsp;&emsp;&emsp; For Arab, I recommend 2 YouTube Channels: ([Garage Education](https://www.youtube.com/@GarageEducation) & [Big Data بالعربي](https://www.youtube.com/playlist?list=PLrooD4hY1QqAK5pbBpcthLuMa-cXnXJLE))<br>
         &emsp;&emsp;&emsp; [Roadmap 1](https://www.educba.com/data-engineer-roadmap/)<br> 
         &emsp;&emsp;&emsp; [Roadmap 2](https://github.com/datastacktv/data-engineer-roadmap)<br>
         &emsp;&emsp;&emsp; [IBM Data Engineering Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-engineer)<br>
-        &emsp;&emsp;&emsp;*Note: A good knowledge & projects in SQL, Python, Data Warehouse, Hadoop can bring you great opportunities. Start with them then go for the other tools and concepts*<br>
+        &emsp;&emsp;&emsp;*Note: A good knowledge & projects in SQL, Python, Data Warehouse, Hadoop/Apache Spark can bring you great opportunities. Start with them then go for the other tools and concepts*<br>
 ***
 <details><summary>:file_folder: <b>CV / Resumes :memo: </b> &emsp;
  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="75">
