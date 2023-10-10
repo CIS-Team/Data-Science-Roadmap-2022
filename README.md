@@ -156,7 +156,8 @@ Note: it's already mentioned in the above probability course <br>
 **12. Python Regular Expression**<br>
         &emsp;&emsp;&emsp;:closed_book: [Tutorial](https://www.datacamp.com/community/tutorials/python-regular-expression-tutorial)<br>
 **13. Time Series Analysis**<br>
-         &emsp;&emsp;&emsp;:video_camera: [Track](https://learn.datacamp.com/skill-tracks/time-series-with-python)<br>
+         &emsp;&emsp;&emsp;:video_camera: [Track - DataCamp](https://learn.datacamp.com/skill-tracks/time-series-with-python)<br>
+         &emsp;&emsp;&emsp;:video_camera: [Course - Coursera](https://www.coursera.org/learn/practical-time-series-analysis)<br>
          &emsp;&emsp;&emsp;:closed_book: [Book](https://www.oreilly.com/library/view/practical-time-series/9781492041641/?fbclid=IwAR20cq7hAdWf6voOd61u-pNzZCHvB0rZhT_BUoGTAXxPBhhi82p8BhxLEsI)<br>
          &emsp;&emsp;&emsp;:closed_book: [fbprohet](https://facebook.github.io/prophet/docs/quick_start.html)<br>
          &emsp;&emsp;&emsp;:video_camera: Arabic Source [Video1](https://www.youtube.com/watch?v=TvhaHPq6xLU&list=TLPQMjYwNzIwMjEPGXX6392WJA&index=1) & [Video2](https://www.youtube.com/watch?v=mipF7mRVpk0&list=TLPQMjYwNzIwMjEPGXX6392WJA&index=2)<br>
@@ -259,9 +260,13 @@ Deep Learning - MIT](http://introtodeeplearning.com/?fbclid=IwAR35rIygYlCn84DV7m
 
 **4. Advanced Data Science**<br>
         &emsp;&emsp;&emsp;:video_camera: [Advanced Data Science with IBM Specialization](https://www.coursera.org/specializations/advanced-data-science-ibm) *Includes Apache Spark*<br>
-&emsp;:x:*Advanced ML Topics🧠 | Lecs (YouTube)* <br>
+&emsp;☠️*Advanced ML Topics🧠 | Lecs (YouTube)* <br>
         &emsp;&emsp;&emsp;:video_camera: [Stanford CS330: Deep Multi-Task and Meta Learning I Autumn 2022](https://www.youtube.com/playlist?list=PLoROMvodv4rNjRoawgt72BBNwL2V7doGI) - [Materials](https://cs330.stanford.edu/)<br>
         &emsp;&emsp;&emsp;:video_camera: [18.409 Algorithmic Aspects of Machine Learning Spring 2015 - MIT](https://www.youtube.com/playlist?list=PLB3sDpSRdrOvI1hYXNsa6Lety7K8FhPpx)<br>
+&emsp;☠️*ML based Computer Vision | Lecs (YouTube)* <br>
+        &emsp;&emsp;&emsp;:video_camera: [CS 198-126: Modern Computer Vision Fall 2022 (UC Berkeley)](https://www.youtube.com/playlist?list=PLzWRmD0Vi2KVsrCqA4VnztE4t71KnTnP5)<br>
+        &emsp;&emsp;&emsp;:video_camera: [NOC:Deep Learning For Visual Computing - IIT Kharagpur](https://nptel.ac.in/courses/108105103)<br>
+        &emsp;&emsp;&emsp;:video_camera: [Deep Learning for Computer Vision - Michigan](https://www.youtube.com/playlist?list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r)<br>
 
 **5. NLP** <br>
         &emsp;&emsp;&emsp;:video_camera: [Specialization - Coursera](https://www.coursera.org/specializations/natural-language-processing)<br>
@@ -273,7 +278,7 @@ Deep Learning - MIT](http://introtodeeplearning.com/?fbclid=IwAR35rIygYlCn84DV7m
         &emsp;&emsp;&emsp;:video_camera: [Generative AI with LLMs](https://www.deeplearning.ai/courses/generative-ai-with-llms/)<br>
         &emsp;&emsp;&emsp;:video_camera: [LLM Foundations](https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/llm-foundations/)<br>
         &emsp;&emsp;&emsp;:video_camera: How ChatGPTs / Transformers work?[1](https://www.youtube.com/watch?v=bQ5BoolX9Ag) - [2](https://jalammar.github.io/how-gpt3-works-visualizations-animations/) - [3](https://jalammar.github.io/illustrated-transformer/) *overview & Maths behind*<br>
-        &emsp;&emsp;&emsp;:video_camera: [Prompt Engineering](https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/prompt-engineering/) *If you want to get the most out of LLMs*<br>
+        &emsp;&emsp;&emsp;:video_camera: [Prompt Engineering](https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/prompt-engineering/) | ([Ar](https://www.youtube.com/watch?v=A-sNuzZgY8g&list=PLvLvlVqNQGHDNUshQJBWWCIRGgC0PN7VL)) *If you want to get the most out of LLMs*<br>
         &emsp;&emsp;&emsp;:video_camera: [LLMOps](https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/llmops/) *A Lec going through the entire LLM pipeline*<br>
 
 
