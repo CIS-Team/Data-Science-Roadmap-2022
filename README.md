@@ -15,7 +15,7 @@
   
 ![aaa](https://user-images.githubusercontent.com/92026137/163718013-30b3af7b-5b3c-4a08-a54e-1c81b994a5f6.png)
 
-<h4><i>These terms are wrongly used interchangably among people. There are distinct differences:</i></h4>
+<h4><i>These terms are wrongly used interchangeably among people. There are distinct differences:</i></h4>
 
 | :small_orange_diamond:	**Data Science**        | :small_orange_diamond:	**Data Analytics**           | :small_orange_diamond:	**Data Engineering**           |
 | ------------- | --------------------- | -------------------- |
@@ -54,7 +54,7 @@ Most learning platforms have integrated code exercises where you don’t need to
 ## Legend
 * :video_camera: Video Content
 * :closed_book: Online Article Content / Book
-### :bulb: Roadmap Explanation :arrow_forward: [Youtube Video](https://youtu.be/HbIPJuvzRLk) :movie_camera:
+### :bulb: Roadmap Explanation :arrow_forward: [Youtube Video](https://youtu.be/HbIPJuvzRLk) :movie_camera:<img src="https://media.giphy.com/media/mBYkXvLxkHZFmqBHIC/giphy.gif" width=50px height=40px>
 
 ***
 
@@ -64,7 +64,7 @@ Most learning platforms have integrated code exercises where you don’t need to
 more interesting bits.</i><br>
 [Specializations (data structures-algorithms)](https://www.coursera.org/specializations/data-structures-algorithms)
 
-**1. Descriptive Statistics** <br>
+**1. Descriptive Statistics** <img src="https://raw.githubusercontent.com/mrankitgupta/66DaysOfData/c8c040f1c85d921db317152567f331354446286a/statistics-21.svg" alt="Statistics" width="25" height="25"/> <br>
 &emsp;&emsp;&emsp;:video_camera: [Intro to descriptive statistics](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827) | Same Course [on YouTube](https://www.youtube.com/playlist?list=PLAwxTw4SYaPn22DmaF6x8JtG4TeWOJk_1)<br>
 &emsp;&emsp;&emsp;:video_camera: [Statistics Fundamentals - StatQuest - Youtube](https://www.youtube.com/playlist?list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9)<br>
 &emsp;&emsp;&emsp;:closed_book: [Online statistics education](http://onlinestatbook.com/Online_Statistics_Education.pdf)<br>
@@ -100,7 +100,7 @@ more interesting bits.</i><br>
         &emsp;&emsp;&emsp;:video_camera: [Data School-Youtube](https://www.youtube.com/watch?v=yzIMircGU5I&list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y&index=1)<br>
         &emsp;&emsp;&emsp;:video_camera: [Arabic Course](https://www.youtube.com/watch?v=3ISW655DemU&list=PLvLvlVqNQGHCb2_ygmr1DQOMOv0yXp84F)<br>
 **5. Numpy**<br>
-        &emsp;&emsp;&emsp;:closed_book: [Kaggle](https://www.kaggle.com/legendadnan/numpy-tutorial-for-beginners-data-science)<br>
+        &emsp;&emsp;&emsp;:closed_book: [Kaggle](https://www.kaggle.com/legendadnan/numpy-tutorial-for-beginners-data-science) &emsp;<img src="https://raw.githubusercontent.com/mrankitgupta/mrankitgupta/2a582d085b324cff4917325112229027309ecae3/Numpy-logo.svg" alt="numpy" width="25" height="20"/><br>
         &emsp;&emsp;&emsp;:video_camera: [Arabic Course](https://www.youtube.com/watch?v=5-5CrLmf2vk&list=PLIA_seGogbkGDYq-dnVCsELEIq_7HK7Ca)<br>
         &emsp;&emsp;&emsp;:closed_book: [Tutorial](http://cs231n.github.io/python-numpy-tutorial/)<br>
         &emsp;&emsp;&emsp;:closed_book: [Docs](https://numpy.org/doc/1.18/user/quickstart.html)<br>
@@ -137,7 +137,7 @@ Note: it's already mentioned in the above probability course <br>
         &emsp;&emsp;&emsp;:video_camera: [Power BI training](https://powerbi.microsoft.com/en-us/learning/)<br>
         &emsp;&emsp;&emsp;:video_camera: [Arabic - Youtube (Zanoon)](https://www.youtube.com/watch?v=ykvAWKML9Gk&list=PLof3yw6ZFPFhV75Ptf-5Q88bgUtLOBvOw)<br>
         &emsp;&emsp;&emsp;:video_camera: [Arabic - Youtube](https://www.youtube.com/watch?v=ykvAWKML9Gk&list=PLof3yw6ZFPFhV75Ptf-5Q88bgUtLOBvOw)<br>
- &emsp;*Tableau*<br>
+ &emsp;*Tableau* <img src="https://raw.githubusercontent.com/mrankitgupta/mrankitgupta/a768d6bf0a001f03327578ae12f8867e4056cbaf/tableau-software.svg" alt="tableau" width="20" height="20"/><br>
         &emsp;&emsp;&emsp;:closed_book: [Tutorial](https://www.datacamp.com/community/tutorials/data-visualisation-tableau)<br>
         &emsp;&emsp;&emsp;:video_camera: [docs](https://www.tableau.com/learn/training/20201)<br>
         &emsp;&emsp;&emsp;:video_camera: [course - datacamp](https://learn.datacamp.com/courses/introduction-to-tableau)<br>
@@ -294,7 +294,7 @@ Deep Learning - MIT](http://introtodeeplearning.com/?fbclid=IwAR35rIygYlCn84DV7m
         &emsp;&emsp;&emsp;:video_camera: [TensorFlow: Data and Deployment Specialization](https://www.coursera.org/specializations/tensorflow-data-and-deployment)<br>
         &emsp;&emsp;&emsp;:video_camera: [Deploy Models with TensorFlow Serving and Flask](https://www.coursera.org/projects/deploy-models-tensorflow-serving-flask)<br>
         &emsp;&emsp;&emsp;:video_camera: [How to Deploy a Machine Learning Model to Google Cloud - Daniel Bourke](https://www.youtube.com/watch?v=fw6NMQrYc6w)<br>
-        &emsp;&emsp;&emsp;if you`re intersted in more deployment methods, search for (_FastAPI - Heroku - chitra_)<br>
+        &emsp;&emsp;&emsp;if you`re interested in more deployment methods, search for (_FastAPI - Heroku - chitra_)<br>
         
 **9. MLOps** : is a combination of Model Deployment, Model Serving, Model Monitoring, and Model Maintenance.       
         &emsp;&emsp;&emsp;:link: [MLOps-zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp)<br>
@@ -313,7 +313,8 @@ Deep Learning - MIT](http://introtodeeplearning.com/?fbclid=IwAR35rIygYlCn84DV7m
 ##### &emsp;&emsp; <i> Recommended by [Eng.Mohamed Hammad](https://www.linkedin.com/posts/mohamed-hammad-a720a622_%D9%83%D8%AA%D8%A7%D8%A8-%D9%83%D9%84-%D9%85%D8%B1%D9%87-%D8%A7%D8%AD%D8%AA%D8%A7%D8%AC%D9%87-%D9%88%D8%A7%D8%B1%D8%AC%D8%B9%D9%84%D9%87-%D8%A7%D8%A8%D9%82%D9%8A-%D8%B9%D8%A7%D9%88%D8%B2-%D9%83%D9%84-%D8%A7%D9%84%D9%84%D9%8A-activity-7080526619525693441-nNn0?utm_source=share&utm_medium=member_desktop).</i> <img src="https://media.giphy.com/media/mBYkXvLxkHZFmqBHIC/giphy.gif" width=50px height=40px>
 ***
 
-### :pushpin:PROJECTS :arrow_double_down:<br>
+<h3> :pushpin:PROJECTS :arrow_double_down:</h3><br>
+
 &emsp;&emsp;&emsp;:movie_camera:[Deena Gergis - End to end Project](https://www.youtube.com/playlist?list=PLatl6hdtJ0RnbkReSAuel6PeCPO155FpG)<br>
 &emsp;&emsp;&emsp;:movie_camera:[Machine Learning Projects - Youtube](https://www.youtube.com/watch?v=fiz1ORTBGpY&list=PLfFghEzKVmjvuSA67LszN1dZ-Dd_pkus6)<br>
 &emsp;&emsp;&emsp;:computer:[Top 10 Data Science Projects for Beginners](https://www.kdnuggets.com/2021/06/top-10-data-science-projects-beginners.html)<br>
@@ -327,11 +328,11 @@ Deep Learning - MIT](http://introtodeeplearning.com/?fbclid=IwAR35rIygYlCn84DV7m
 
 ***
 
-### :pushpin: Common Tools :arrow_heading_down:<br>
+<h3>:pushpin: Common Tools :arrow_heading_down:</h3><br>
+
 &emsp;&emsp;&emsp;:closed_book:[Git](https://git-scm.com/book/en/v2)
 &emsp;&emsp;:movie_camera:[Git - Udacity](https://www.udacity.com/course/version-control-with-git--ud123)
 &emsp;&emsp;:movie_camera:[Arabic - Youtube](https://www.youtube.com/watch?v=Q6G-J54vgKc)<br>
-&emsp;&emsp;&emsp; - [Anaconda](https://learn.datacamp.com/courses/conda-essentials)<br>
 
         
 ### :pushpin: **More Books ~ [:pushpin: Check This!](https://drive.google.com/drive/folders/1iW7IPrVUqsHumgXUMH_rgeBLpJjRDCmJ?usp=sharing)** 	<br>
@@ -418,6 +419,42 @@ When we talk about top data science competitions, [**Kaggle**](https://www.kaggl
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;- [(7) 30 days of interview preparation](https://github.com/Moataz-Elmesmary/Data-Science-Roadmap/blob/main/30%20days%20of%20interview%20preparation.pdf):book:	
 
 ***
+<details><summary>🎧<b>Data Science Podcasts: 🎙️</b><br> <i>The Best Way to Stay Up-to-Date on the Latest Data Science Trends and Developments</i><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="29px">
+
+</summary>
+<br>
+
+Podcasts  | About      
+-- | ---------------------------
+[Data Science at Home](https://datascienceathome.com/)|A podcast that provides practical advice and tutorials on data science topics.
+[Data Stories](https://datastori.es/)|An interview-driven podcast that tells the stories of data scientists and how they're using their skills to make a difference in the world.
+[O'Reilly Data Show](https://www.oreilly.com/radar/topics/oreilly-data-show-podcast/)|A podcast that covers a wide range of data science topics, from machine learning to artificial intelligence to big data.
+[Learning Machines 101](https://www.learningmachines101.com/) |Mathematics, statistics, and algorithms that power the machine learning systems that we rely on every day. The podcast is hosted by Richard Golden, a machine learning engineer and researcher at Google AI.
+[Data Engineering Podcast](https://www.dataengineeringpodcast.com/) |Tools, techniques, and difficulties associated with the discipline of data engineering. Databases, workflows, automation, and data manipulation.
+[Data Science Mixer](https://community.alteryx.com/t5/Data-Science-Mixer/bg-p/mixer)  |A great resource for anyone who wants to learn more about data science and the latest trends in the field. It is also a great way to get inspired by the work of other data scientists and machine learning engineers.
+[ Chai Time Data Science Show](https://www.youtube.com/playlist?list=PLLvvXm0q8zUbiNdoIazGzlENMXvZ9bd3x) |Interviews top data scientists, practitioners, and researchers from around the world. The show is hosted by Sanyam Bhutani, a data scientist and machine learning engineer at Google AI.
+[Becoming a Data Scientist](https://www.becomingadatascientist.com/category/podcast/)|Podcast that interviews data scientists about their journey to becoming a data scientist. The podcast is hosted by Renee Teate, a data scientist and machine learning engineer at Google AI.
+[AI Today Podcast](https://www.aidatatoday.com/aitoday/)|Explores the latest trends and developments in artificial intelligence.
+[Gradient Dissent](https://wandb.ai/fully-connected/podcast)|A weekly podcast that explores the latest research in machine learning and artificial intelligence.
+[Data Skeptic](https://dataskeptic.com/)|A podcast that challenges the conventional wisdom in data science and asks tough questions about the ethics and implications of data-driven decision making.
+[Linear Digressions](https://lineardigressions.com/)|A podcast that covers a wide range of data science topics, from the technical to the theoretical.
+[The Data Engineering Show](https://www.dataengineeringshow.com/)|For data engineering and BI practitioners to go beyond theory, and learn from the biggest influencers in tech about their practical day to day data challenges.
+[DataTalks.Club](https://podcasters.spotify.com/pod/show/datatalksclub)|A weekly online community of data enthusiasts and practitioners that learn from each other and share their knowledge and experiences through meetups, workshops, and a podcast.
+[Datacast](https://jameskle.com/writes/category/Datacast)|Top data scientists and practitioners in the data and AI infrastructure space. The podcast is hosted by James Le.
+[How to Get an Analytics Job Podcast](https://www.youtube.com/playlist?list=PLBvzkZLydYX0D28bbnfRCV6M4zMQrhXsd)|A great resource for anyone who is interested in a career in analytics. The guests share their insights and advice on how to get started in analytics and how to succeed in an analytics career.
+[The Analytics Power Hour](https://analyticshour.io/)|Five awesome people, an occasional guest, and drinks all around tackling the hottest data and analytics topics of the day.
+
+<br>
+
+&emsp;&emsp;&emsp; **:eyes: Arabic Podcasts??**
+###### &emsp;&emsp;&emsp;&emsp;   :trollface:شايفك ياللي زهقان في المواصلات
+&emsp;&emsp;&emsp;📻[Arabic Data Podcast](https://www.youtube.com/@arabic_data_podcast) | [Spotify](https://open.spotify.com/show/6xo79RT4NP73wQA39TgAq1) by Eng. Kareem Abdelsalam<br>
+&emsp;&emsp;&emsp;📻[lإلي البيانات وما بعدها](https://www.youtube.com/watch?v=3znPvz6P2oM&list=PL9yAM5pvSfU5EdppOCf-YvttRsabeAmbN) by Eng. Youssef Hosni<br>
+&emsp;&emsp;&emsp;📻[Garage Education](https://www.youtube.com/@GarageEducation/playlists) by Eng. Mostafa Alaa<br>
+&emsp;&emsp;&emsp;📻[Data Science بالعربي](https://www.boomplay.com/podcasts/29169)<br>
+</details>
+
+***
 :pushpin:	**Data Analysis Recommendations.**<br>
         &emsp;&emsp;&emsp; Books (:closed_book: [The Data Analysis Workshop](https://drive.google.com/file/d/1BjKsffA2SCY0jY8OIIzgQgM0ZS7E9v_v/view?fbclid=IwAR2_GBlrX7VYoo8WCRO9R2qqrYEqtytoGrObxy1QHWcQ7sRaFjRLb0GmuxM) &
         :closed_book: [Head First Data Analysis](https://drive.google.com/file/d/1HXHkwrgsSJLYSeB6I0wPUXIGGnm2-HQ6/view?fbclid=IwAR27M-dlPN6o0YuZg3bXH6_DP9L2fBhkKDEkChvO4SPG-SXfkxrzuoGP5RM))<br>
@@ -425,8 +462,9 @@ When we talk about top data science competitions, [**Kaggle**](https://www.kaggl
         &emsp;&emsp;&emsp; [Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics)<br>
         &emsp;&emsp;&emsp; [IBM Data Analyst Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-analyst?fbclid=IwAR1IajEEe2yydVWRt3hbj4qLioXP6oR-fdbw8f1kHAVpAXSA4Z8Eww1Y-fs)<br>
         &emsp;&emsp;&emsp; [Google Advanced Data Analytics Professional Certificate :new:](https://www.coursera.org/professional-certificates/google-advanced-data-analytics?irclickid=zzy33K1O0xyNUAmxqWUjDwedUkAQlBwwJ21EwA0&irgwc=1&utm_medium=partners&utm_source=impact&utm_campaign=2624140&utm_content=b2c)<br>
+        &emsp;&emsp;&emsp; [Alex The Analyst - YouTube📺](https://www.youtube.com/@AlexTheAnalyst/playlists)<br>
         &emsp;&emsp;&emsp;*Note: A good knowledge & projects in just [Excel](https://www.coursera.org/learn/excel-basics-data-analysis-ibm), SQL & Power BI / Tableau can bring you great opportunities*.<br>
-        &emsp;&emsp;&emsp;&emsp;&emsp;- Excel More Resources: ([Arabic 1:video_camera:](https://www.youtube.com/watch?v=9Z5MPeyuLhg&t=397s) - [Arabic 2:video_camera:](https://www.youtube.com/watch?v=uRs8_EJqTFo&list=PLXlHqMRg9lAYiiutr-Ou0J1uU20T-5a4-&pp=iAQB) - [Books :page_facing_up: and cheat sheets for revising](https://drive.google.com/drive/folders/1CAUKDb5jv1pMez1WO74ogkpX44UMW_ky))<br>
+        &emsp;&emsp;&emsp;&emsp;&emsp;-<img src="https://raw.githubusercontent.com/mrankitgupta/66DaysOfData/60139fb461ef56a19afd68ea4094f6069f27ce49/icons8-microsoft-excel%20(1).svg" alt="excel" width="25" height="25"/> Excel More Resources: ([Arabic 1:video_camera:](https://www.youtube.com/watch?v=9Z5MPeyuLhg&t=397s) - [Arabic 2:video_camera:](https://www.youtube.com/watch?v=uRs8_EJqTFo&list=PLXlHqMRg9lAYiiutr-Ou0J1uU20T-5a4-&pp=iAQB) - [Books :page_facing_up: and cheat sheets for revising](https://drive.google.com/drive/folders/1CAUKDb5jv1pMez1WO74ogkpX44UMW_ky))<br>
 <p align="center">
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
