@@ -1,4 +1,4 @@
-![photo_2022-04-20_03-18-03](https://user-images.githubusercontent.com/92026137/164127639-38317783-8c5e-4b85-acf5-3d6bd6dbf9c0.jpg)
+<img align="center" width="730" height="720" src="https://github.com/Moataz-Elmesmary/Data-Science-Roadmap/assets/92026137/95f2d5a6-990b-46cf-90c1-098059a9c706">
 <h2>&emsp;&emsp;&emsp;&emsp; DATA SCIENCE ROADMAP :pirate_flag: 2023 </h2>
  
 ### Data Science Roadmap for anyone interested in how to break into the field!
@@ -276,6 +276,7 @@ Deep Learning - MIT](http://introtodeeplearning.com/?fbclid=IwAR35rIygYlCn84DV7m
         &emsp;&emsp;&emsp;:video_camera: [Stanford XCS224U Lectures - Spring 2021- YouTube](https://www.youtube.com/playlist?app=desktop&list=PLoROMvodv4rMFqRtEuo6SGjY4XbRIVRd4&si=k91y-bepIiPjHMrj&fbclid=IwAR2h6KcYboHCjG9YBIEB08srgYSesqZ5UHXr0ni8yxOqrxNV3-_TGxq0Csg)<br>
         &emsp;&emsp;&emsp;:video_camera: [Introduction to Natural Language Processing in Python](https://www.datacamp.com/courses/natural-language-processing-fundamentals-in-python)<br>
 &emsp;:small_orange_diamond:*LLMS [What`s Large Language Model](https://www.snowflake.com/guides/what-large-language-model-and-what-can-llms-do-data-science)?* <br>
+        &emsp;&emsp;&emsp;:video_camera: [Generative AI for Everyone (Andrew Nj) - Coursera](https://www.coursera.org/learn/generative-ai-for-everyone?utm_campaign=genai4e-launch&utm_medium=institutions&utm_source=deeplearning-ai#modules)🆕<br>
         &emsp;&emsp;&emsp;:video_camera: [Generative AI with LLMs](https://www.deeplearning.ai/courses/generative-ai-with-llms/)<br>
         &emsp;&emsp;&emsp;:video_camera: [LLM Foundations](https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/llm-foundations/)<br>
         &emsp;&emsp;&emsp;:video_camera: How ChatGPTs / Transformers work?[1](https://www.youtube.com/watch?v=bQ5BoolX9Ag) - [2](https://jalammar.github.io/how-gpt3-works-visualizations-animations/) - [3](https://jalammar.github.io/illustrated-transformer/) *overview & Maths behind*<br>
@@ -313,7 +314,7 @@ Deep Learning - MIT](http://introtodeeplearning.com/?fbclid=IwAR35rIygYlCn84DV7m
 &emsp; :open_book: [Pattern Recognition and Machine Learning - Bishop](https://drive.google.com/file/d/1QkQj_azL6O7qUzshB8lPzueYWj0TRwEu/view?usp=sharing) (Advanced)<br>
 ##### &emsp;&emsp; <i> Recommended by [Eng.Mohamed Hammad](https://www.linkedin.com/posts/mohamed-hammad-a720a622_%D9%83%D8%AA%D8%A7%D8%A8-%D9%83%D9%84-%D9%85%D8%B1%D9%87-%D8%A7%D8%AD%D8%AA%D8%A7%D8%AC%D9%87-%D9%88%D8%A7%D8%B1%D8%AC%D8%B9%D9%84%D9%87-%D8%A7%D8%A8%D9%82%D9%8A-%D8%B9%D8%A7%D9%88%D8%B2-%D9%83%D9%84-%D8%A7%D9%84%D9%84%D9%8A-activity-7080526619525693441-nNn0?utm_source=share&utm_medium=member_desktop).</i> <img src="https://media.giphy.com/media/mBYkXvLxkHZFmqBHIC/giphy.gif" width=50px height=40px>
 ***
-
+<img align="right" width="329" height="270" src="https://github.com/Moataz-Elmesmary/Data-Science-Roadmap/assets/92026137/60cd8545-7720-499a-8e08-6d6dda50ee62">
 <h3> :pushpin:PROJECTS :arrow_double_down:</h3><br>
 
 &emsp;&emsp;&emsp;:movie_camera:[Deena Gergis - End to end Project](https://www.youtube.com/playlist?list=PLatl6hdtJ0RnbkReSAuel6PeCPO155FpG)<br>
@@ -324,11 +325,12 @@ Deep Learning - MIT](http://introtodeeplearning.com/?fbclid=IwAR35rIygYlCn84DV7m
 &emsp;&emsp;&emsp;:computer:[Top 310+ Machine Learning Projects for 2023](https://data-flair.training/blogs/machine-learning-project-ideas/)<br>
 &emsp;&emsp;&emsp;:computer:[10 End-to-End Guided Data Science Projects](https://pub.towardsai.net/10-end-to-end-guided-data-science-projects-to-build-your-portfolio-b7b9047fe6c9)<br>
 &emsp;&emsp;&emsp;:movie_camera:[Real-World ML Tutorial w/ Scikit Learn](https://www.youtube.com/watch?v=M9Itm95JzL0)<br>
+&emsp;&emsp;&emsp;:computer:[Python Codes in Data Science](https://github.com/RubensZimbres/Repo-2017/)<br>
 &emsp;&emsp;&emsp;:movie_camera:[End To End ML Project With Dockers,Github Actions And Deployment](https://www.youtube.com/watch?v=MJ1vWb1rGwM)<br>
-&emsp;&emsp;&emsp;:computer:[Python Codes in Data Science](https://github.com/RubensZimbres/Repo-2017/)<br>&emsp;&emsp;&emsp;:computer:[12 free Data Science projects to practice Python and Pandas (resolve interactive online)](https://www.datawars.io/articles/12-free-data-science-projects-to-practice-python-and-pandas)<br>
+&emsp;&emsp;&emsp;:computer:[12 free Data Science projects to practice Python and Pandas (resolve interactive online)](https://www.datawars.io/articles/12-free-data-science-projects-to-practice-python-and-pandas)<br>
 
 ***
-
+<img align="right" width="158" height="85" src="https://github.com/Moataz-Elmesmary/Data-Science-Roadmap/assets/92026137/38a970a5-e723-4831-bc35-153c228beebf">
 <h3>:pushpin: Common Tools :arrow_heading_down:</h3><br>
 
 &emsp;&emsp;&emsp;:closed_book:[Git](https://git-scm.com/book/en/v2)
@@ -338,10 +340,12 @@ Deep Learning - MIT](http://introtodeeplearning.com/?fbclid=IwAR35rIygYlCn84DV7m
         
 ### :pushpin: **More Books ~ [:pushpin: Check This!](https://drive.google.com/drive/folders/1iW7IPrVUqsHumgXUMH_rgeBLpJjRDCmJ?usp=sharing)** 	<br>
  &emsp;&emsp;:atom::atom::atom::atom::atom:<br>
+<img align="right" width="329" height="270" src="https://github.com/Moataz-Elmesmary/Data-Science-Roadmap/assets/92026137/b41c09b2-47c4-4ee3-b932-eb14b1c243bf">
+
   &emsp;&emsp;&emsp;:closed_book: [:fire:	<b>65</b> Free Important Books :fire:](https://techgrabyte.com/springer-released-65-machine-learning-data-science-books-free/?fbclid=IwAR3x9Mfd4FSrBo_y2F92cAghhZ8851qv3wQ1R_u87s70MZTDtKeG5yn7Hts)<br>
         &emsp;&emsp;&emsp;:closed_book: [Mathematics for Machine Learning ](https://mml-book.github.io/)<br>
         &emsp;&emsp;&emsp;:closed_book: [An Introduction to Statistical Learning](https://www.statlearning.com/)<br>
-        &emsp;&emsp;&emsp;:closed_book: [Understanding Machine Learning: From Theory to Algorithms ](https://www.cs.huji.ac.il/w~shais/UnderstandingMachineLearning/copy.html)<br>
+        &emsp;&emsp;&emsp;:closed_book: [Understanding ML: From Theory to Algorithms ](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf)<br>
         &emsp;&emsp;&emsp;:closed_book: [Probabilistic Machine Learning: An Introduction](https://probml.github.io/pml-book/book1.html)<br>
         &emsp;&emsp;&emsp;:closed_book: [storytelling with data](https://drive.google.com/file/d/1OQu6ZWImGnHbuI_WJOLPdSvKWCABSWMH/view?usp=sharing) Important data visualization guide.<br>
         
@@ -420,34 +424,37 @@ When we talk about top data science competitions, [**Kaggle**](https://www.kaggl
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;- [(7) 30 days of interview preparation](https://github.com/Moataz-Elmesmary/Data-Science-Roadmap/blob/main/30%20days%20of%20interview%20preparation.pdf):book:	
 
 ***
-<details><summary>🎧<b>Data Science Podcasts: 🎙️</b><br> <i>The Best Way to Stay Up-to-Date on the Latest Data Science Trends and Developments</i><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="29px">
+<img align="right" width="190" height="145" src="https://github.com/Moataz-Elmesmary/Data-Science-Roadmap/assets/92026137/251a2659-c71e-4051-b431-2e93f8ce4187">
+<details><summary>🎧<b>Data Science Podcasts: 🎙️</b><br> <i>The Best Way to Stay Up-to-Date on the Latest Data Science Trends and Developments</i><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="29px"></summary>
 
-</summary>
-<br>
-
-Podcasts  | About      
--- | ---------------------------
-[Data Science at Home](https://datascienceathome.com/)|A podcast that provides practical advice and tutorials on data science topics.
-[Data Stories](https://datastori.es/)|An interview-driven podcast that tells the stories of data scientists and how they're using their skills to make a difference in the world.
-[O'Reilly Data Show](https://www.oreilly.com/radar/topics/oreilly-data-show-podcast/)|A podcast that covers a wide range of data science topics, from machine learning to artificial intelligence to big data.
-[Learning Machines 101](https://www.learningmachines101.com/) |Mathematics, statistics, and algorithms that power the machine learning systems that we rely on every day. The podcast is hosted by Richard Golden, a machine learning engineer and researcher at Google AI.
-[Data Engineering Podcast](https://www.dataengineeringpodcast.com/) |Tools, techniques, and difficulties associated with the discipline of data engineering. Databases, workflows, automation, and data manipulation.
-[Data Science Mixer](https://community.alteryx.com/t5/Data-Science-Mixer/bg-p/mixer)  |A great resource for anyone who wants to learn more about data science and the latest trends in the field. It is also a great way to get inspired by the work of other data scientists and machine learning engineers.
-[ Chai Time Data Science Show](https://www.youtube.com/playlist?list=PLLvvXm0q8zUbiNdoIazGzlENMXvZ9bd3x) |Interviews top data scientists, practitioners, and researchers from around the world. The show is hosted by Sanyam Bhutani, a data scientist and machine learning engineer at Google AI.
-[Becoming a Data Scientist](https://www.becomingadatascientist.com/category/podcast/)|Podcast that interviews data scientists about their journey to becoming a data scientist. The podcast is hosted by Renee Teate, a data scientist and machine learning engineer at Google AI.
-[AI Today Podcast](https://www.aidatatoday.com/aitoday/)|Explores the latest trends and developments in artificial intelligence.
-[Gradient Dissent](https://wandb.ai/fully-connected/podcast)|A weekly podcast that explores the latest research in machine learning and artificial intelligence.
-[Data Skeptic](https://dataskeptic.com/)|A podcast that challenges the conventional wisdom in data science and asks tough questions about the ethics and implications of data-driven decision making.
-[Linear Digressions](https://lineardigressions.com/)|A podcast that covers a wide range of data science topics, from the technical to the theoretical.
-[The Data Engineering Show](https://www.dataengineeringshow.com/)|For data engineering and BI practitioners to go beyond theory, and learn from the biggest influencers in tech about their practical day to day data challenges.
-[DataTalks.Club](https://podcasters.spotify.com/pod/show/datatalksclub)|A weekly online community of data enthusiasts and practitioners that learn from each other and share their knowledge and experiences through meetups, workshops, and a podcast.
-[Datacast](https://jameskle.com/writes/category/Datacast)|Top data scientists and practitioners in the data and AI infrastructure space. The podcast is hosted by James Le.
-[How to Get an Analytics Job Podcast](https://www.youtube.com/playlist?list=PLBvzkZLydYX0D28bbnfRCV6M4zMQrhXsd)|A great resource for anyone who is interested in a career in analytics. The guests share their insights and advice on how to get started in analytics and how to succeed in an analytics career.
-[The Analytics Power Hour](https://analyticshour.io/)|Five awesome people, an occasional guest, and drinks all around tackling the hottest data and analytics topics of the day.
 
 <br>
 
-&emsp;&emsp;&emsp; **:eyes: Arabic Podcasts??**
+Podcasts  | About      | Produced by
+-- | --------------------------- | --
+[Data Science at Home](https://datascienceathome.com/)|A podcast that provides practical advice and tutorials on data science topics.|Greg Linhardt, a data scientist and machine learning engineer at Google AI
+[Data Stories](https://datastori.es/)|An interview-driven podcast that tells the stories of data scientists and how they're using their skills to make a difference in the world.| Kirill Eremenko, a data scientist and machine learning engineer at Netflix
+[O'Reilly Data Show](https://www.oreilly.com/radar/topics/oreilly-data-show-podcast/)|A podcast that covers a wide range of data science topics, from machine learning to artificial intelligence to big data.|Ben Lorica, the Chief Data Scientist at O'Reilly
+[Learning Machines 101](https://www.learningmachines101.com/) |Mathematics, statistics, and algorithms that power the machine learning systems that we rely on every day.|Richard Golden, a machine learning engineer and researcher at Google AI
+[Data Engineering Podcast](https://www.dataengineeringpodcast.com/) |Tools, techniques, and difficulties associated with the discipline of data engineering. Databases, workflows, automation, and data manipulation.|Tobias Macey, a data engineer at Netflix
+[Data Science Mixer](https://community.alteryx.com/t5/Data-Science-Mixer/bg-p/mixer)  |A great resource for anyone who wants to learn more about data science and the latest trends in the field. It is also a great way to get inspired by the work of other data scientists and machine learning engineers.|Alteryx, a data science and analytics software company
+[Chai Time Data Science Show](https://www.youtube.com/playlist?list=PLLvvXm0q8zUbiNdoIazGzlENMXvZ9bd3x) |Interviews top data scientists, practitioners, and researchers from around the world.|Sanyam Bhutani, a data scientist and machine learning engineer at Google AI.
+[Becoming a Data Scientist](https://www.becomingadatascientist.com/category/podcast/)|Podcast that interviews data scientists about their journey to becoming a data scientist.|Renee Teate, a data scientist and machine learning engineer at Google AI.
+[AI Today Podcast](https://www.aidatatoday.com/aitoday/)|Explores the latest trends and developments in artificial intelligence.|Ron Schmelzer and Kathleen Walch
+[Gradient Dissent](https://wandb.ai/fully-connected/podcast)|A weekly podcast that explores the latest research in machine learning and artificial intelligence.|Chris Olah, a machine learning engineer at Google AI
+[Data Skeptic](https://dataskeptic.com/)|A podcast that challenges the conventional wisdom in data science and asks tough questions about the ethics and implications of data-driven decision making.|Kyle Polich, a data scientist and machine learning engineer
+[Linear Digressions](https://lineardigressions.com/)|A podcast that covers a wide range of data science topics, from the technical to the theoretical.|Ben Recht and Noah Smith, two machine learning researchers at the University of California, Berkeley
+[The Data Engineering Show](https://www.dataengineeringshow.com/)|For data engineering and BI practitioners to go beyond theory, and learn from the biggest influencers in tech about their practical day to day data challenges.|Eldad Farkash and Benjamin Wagner, who are both data engineering experts with experience at companies like Firebolt and Sisense
+[DataTalks.Club](https://podcasters.spotify.com/pod/show/datatalksclub)|A weekly online community of data enthusiasts and practitioners that learn from each other and share their knowledge and experiences through meetups, workshops, and a podcast.|A rotating cast of data experts
+[Datacast](https://jameskle.com/writes/category/Datacast)|Top data scientists and practitioners in the data and AI infrastructure space.|James Le, who is a data infrastructure expert with experience at companies like Google and Netflix
+[How to Get an Analytics Job Podcast](https://www.youtube.com/playlist?list=PLBvzkZLydYX0D28bbnfRCV6M4zMQrhXsd)|A great resource for anyone who is interested in a career in analytics. The guests share their insights and advice on how to get started in analytics and how to succeed in an analytics career.|John David Ariansen, an analytics agency owner and career coach
+[The Analytics Power Hour](https://analyticshour.io/)|Five awesome people, an occasional guest, and drinks all around tackling the hottest data and analytics topics of the day.|Tim Wilson, Michael Helbling, Josh Crowhurst, and Val Kroll. They are all analytics experts from different companies
+</details>
+
+<br>
+
+<details><summary>&emsp;&emsp;&emsp; :eyes: Arabic Podcasts??</summary>
+
 ###### &emsp;&emsp;&emsp;&emsp;   :trollface:شايفك ياللي زهقان في المواصلات
 &emsp;&emsp;&emsp;📻[Arabic Data Podcast](https://www.youtube.com/@arabic_data_podcast) | [Spotify](https://open.spotify.com/show/6xo79RT4NP73wQA39TgAq1) by Eng. Kareem Abdelsalam<br>
 &emsp;&emsp;&emsp;📻[lإلي البيانات وما بعدها](https://www.youtube.com/watch?v=3znPvz6P2oM&list=PL9yAM5pvSfU5EdppOCf-YvttRsabeAmbN) by Eng. Youssef Hosni<br>
@@ -457,6 +464,7 @@ Podcasts  | About
 
 ***
 :pushpin:	**Data Analysis Recommendations.**<br>
+<img align="right" width="150" height="150" src="https://github.com/Moataz-Elmesmary/Data-Science-Roadmap/assets/92026137/653458d5-74a4-4f75-a676-6cb714395656">
         &emsp;&emsp;&emsp; Books (:closed_book: [The Data Analysis Workshop](https://drive.google.com/file/d/1BjKsffA2SCY0jY8OIIzgQgM0ZS7E9v_v/view?fbclid=IwAR2_GBlrX7VYoo8WCRO9R2qqrYEqtytoGrObxy1QHWcQ7sRaFjRLb0GmuxM) &
         :closed_book: [Head First Data Analysis](https://drive.google.com/file/d/1HXHkwrgsSJLYSeB6I0wPUXIGGnm2-HQ6/view?fbclid=IwAR27M-dlPN6o0YuZg3bXH6_DP9L2fBhkKDEkChvO4SPG-SXfkxrzuoGP5RM))<br>
         &emsp;&emsp;&emsp; [FWD - (The 3 Levels)](https://egfwd.com/?fbclid=IwAR1phYmHHgi0L4E9nOPZcSfAdHWsDs9EvBh3dJgO6gXN4B1A-nV8vspGggs)<br>
@@ -472,10 +480,12 @@ Podcasts  | About
 :pushpin:	**[Data Engineering](https://youtu.be/qWru-b6m030) Recommendations.**<br>
         &emsp;&emsp;&emsp; Books (:closed_book: [Fundamentals of Data Engineering](https://drive.google.com/file/d/1CbQFN0Lw8o6v4KlF64LsCyaooMccT45T/view?usp=sharing) &
         :closed_book: [Designing Data-Intensive Applications](https://drive.google.com/file/d/1CrzA--WWNcxxQwLqzg1yPfiI3FaEo49z/view?usp=sharing))<br>
+<img align="right" width="150" height="150" src="https://github.com/Moataz-Elmesmary/Data-Science-Roadmap/assets/92026137/aafc7a10-a8a1-4204-a9f4-9b8cefccf718">
         &emsp;&emsp;&emsp; Arabic Podcast, [Starting a Career in Data Engineering.](https://www.youtube.com/watch?v=OtaBhXjrbX4)<br>
         &emsp;&emsp;&emsp; For Arab, I recommend 2 YouTube Channels: ([Garage Education](https://www.youtube.com/@GarageEducation) & [Big Data بالعربي](https://www.youtube.com/playlist?list=PLrooD4hY1QqAK5pbBpcthLuMa-cXnXJLE))<br>
-        &emsp;&emsp;&emsp; [Roadmap 1](https://www.educba.com/data-engineer-roadmap/)<br> 
-        &emsp;&emsp;&emsp; [Roadmap 2](https://github.com/datastacktv/data-engineer-roadmap)<br>
+        &emsp;&emsp;&emsp; [Roadmap 1](https://github.com/OmarEhab007/Data_Engineering_Mentorship) - *(Recommended)*<br> 
+        &emsp;&emsp;&emsp; [Roadmap 2](https://www.educba.com/data-engineer-roadmap/)<br> 
+        &emsp;&emsp;&emsp; [Roadmap 3](https://github.com/datastacktv/data-engineer-roadmap)<br>
         &emsp;&emsp;&emsp; [IBM Data Engineering Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-engineer)<br>
         &emsp;&emsp;&emsp;*Note: A good knowledge & projects in SQL, Python, Apache [Spark](https://www.udacity.com/course/learn-spark-at-udacity--ud2002)/Hadoop, Data Modeling and [[Data Warehouse](https://www.coursera.org/learn/dwdesign) - {Arabic-[Starting from the 7th video](https://www.youtube.com/playlist?list=PLxNoJq6k39G_m6DYjpz-V92DkaQEiXxkF)} can bring you great opportunities. Start with them then go for the other tools,concepts and cloud platforms*.<br>
 ***
