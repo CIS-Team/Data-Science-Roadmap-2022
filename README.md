@@ -71,7 +71,7 @@ more interesting bits.</i><br>
 &emsp;&emsp;&emsp;:closed_book: Intro to descriptive statistics [Article1](https://medium.com/m/global-identity?redirectUrl=https%3A%2F%2Ftowardsdatascience.com%2Fdescriptive-statistics-f2beeaf7a8df) & [Article2](https://medium.com/m/global-identity?redirectUrl=https%3A%2F%2Ftowardsdatascience.com%2Fintro-to-descriptive-statistics-252e9c464ac9)<br>
 &emsp;&emsp;&emsp;:video_camera: [Arabic Course](https://www.youtube.com/watch?v=d5jh5mmwcKI&list=PLY99ZSsxRyJiu6kb4WRRpeEFqK1pAr-EO)<br>
 &emsp;&emsp;&emsp;:video_camera: [Intro to Inferential Statistics](https://www.udacity.com/course/intro-to-inferential-statistics--ud201)++<br>
-&emsp;&emsp;&emsp;:closed_book: [Practical Statistics for Data Scientists](https://github.com/Moataz-Elmesmary/Data-Science-Roadmap/blob/main/Practical%20Statistics%20for%20Data%20Scientists.pdf)<br>
+&emsp;&emsp;&emsp;:closed_book: [Practical Statistics for Data Scientists](https://github.com/Moataz-Elmesmary/Data-Science-Roadmap/blob/main/Books/Practical%20Statistics%20for%20Data%20Scientists.pdf)<br>
 
 **2. Probability**<br>
 &emsp;&emsp;&emsp;:video_camera: [Khan Academy](https://www.khanacademy.org/math/statistics-probability/probability-library)<br>
@@ -314,7 +314,7 @@ Deep Learning - MIT](http://introtodeeplearning.com/?fbclid=IwAR35rIygYlCn84DV7m
 &emsp; :open_book: [Pattern Recognition and Machine Learning - Bishop](https://drive.google.com/file/d/1QkQj_azL6O7qUzshB8lPzueYWj0TRwEu/view?usp=sharing) (Advanced)<br>
 ##### &emsp;&emsp; <i> Recommended by [Eng.Mohamed Hammad](https://www.linkedin.com/posts/mohamed-hammad-a720a622_%D9%83%D8%AA%D8%A7%D8%A8-%D9%83%D9%84-%D9%85%D8%B1%D9%87-%D8%A7%D8%AD%D8%AA%D8%A7%D8%AC%D9%87-%D9%88%D8%A7%D8%B1%D8%AC%D8%B9%D9%84%D9%87-%D8%A7%D8%A8%D9%82%D9%8A-%D8%B9%D8%A7%D9%88%D8%B2-%D9%83%D9%84-%D8%A7%D9%84%D9%84%D9%8A-activity-7080526619525693441-nNn0?utm_source=share&utm_medium=member_desktop).</i> <img src="https://media.giphy.com/media/mBYkXvLxkHZFmqBHIC/giphy.gif" width=50px height=40px>
 ***
-<img align="right" width="329" height="270" src="https://github.com/Moataz-Elmesmary/Data-Science-Roadmap/assets/92026137/60cd8545-7720-499a-8e08-6d6dda50ee62">
+<img align="right" width="309" height="250" src="https://github.com/Moataz-Elmesmary/Data-Science-Roadmap/assets/92026137/60cd8545-7720-499a-8e08-6d6dda50ee62">
 <h3> :pushpin:PROJECTS :arrow_double_down:</h3><br>
 
 &emsp;&emsp;&emsp;:movie_camera:[Deena Gergis - End to end Project](https://www.youtube.com/playlist?list=PLatl6hdtJ0RnbkReSAuel6PeCPO155FpG)<br>
@@ -330,24 +330,26 @@ Deep Learning - MIT](http://introtodeeplearning.com/?fbclid=IwAR35rIygYlCn84DV7m
 &emsp;&emsp;&emsp;:computer:[12 free Data Science projects to practice Python and Pandas (resolve interactive online)](https://www.datawars.io/articles/12-free-data-science-projects-to-practice-python-and-pandas)<br>
 
 ***
-<img align="right" width="158" height="85" src="https://github.com/Moataz-Elmesmary/Data-Science-Roadmap/assets/92026137/38a970a5-e723-4831-bc35-153c228beebf">
 <h3>:pushpin: Common Tools :arrow_heading_down:</h3><br>
+<img align="right" width="158" height="85" src="https://github.com/Moataz-Elmesmary/Data-Science-Roadmap/assets/92026137/38a970a5-e723-4831-bc35-153c228beebf">
 
-&emsp;&emsp;&emsp;:closed_book:[Git](https://git-scm.com/book/en/v2)
-&emsp;&emsp;:movie_camera:[Git - Udacity](https://www.udacity.com/course/version-control-with-git--ud123)
-&emsp;&emsp;:movie_camera:[Arabic - Youtube](https://www.youtube.com/watch?v=Q6G-J54vgKc)<br>
+English | Arabic | Book
+--- | --- | ---
+:movie_camera: [Git - Udacity](https://www.udacity.com/course/version-control-with-git--ud123) | :movie_camera: [شخبط وانت مطمن ](https://www.youtube.com/watch?v=Q6G-J54vgKc)🚀 | :closed_book: [Pro Git](https://git-scm.com/book/en/v2)
+📖 [w3schools](https://www.w3schools.com/git/) | :movie_camera: [almadrasa](https://almdrasa.com/tracks/programming-foundations/courses/git-github/)
+&emsp; | :movie_camera: [Elzero](https://www.youtube.com/playlist?list=PLDoPjvoNmBAw4eOj58MZPakHjaO3frVMF) 
 
-        
+***       
 ### :pushpin: **More Books ~ [:pushpin: Check This!](https://drive.google.com/drive/folders/1iW7IPrVUqsHumgXUMH_rgeBLpJjRDCmJ?usp=sharing)** 	<br>
  &emsp;&emsp;:atom::atom::atom::atom::atom:<br>
-<img align="right" width="329" height="270" src="https://github.com/Moataz-Elmesmary/Data-Science-Roadmap/assets/92026137/b41c09b2-47c4-4ee3-b932-eb14b1c243bf">
+<img align="right" width="309" height="250" src="https://github.com/Moataz-Elmesmary/Data-Science-Roadmap/assets/92026137/b41c09b2-47c4-4ee3-b932-eb14b1c243bf">
 
-  &emsp;&emsp;&emsp;:closed_book: [:fire:	<b>65</b> Free Important Books :fire:](https://techgrabyte.com/springer-released-65-machine-learning-data-science-books-free/?fbclid=IwAR3x9Mfd4FSrBo_y2F92cAghhZ8851qv3wQ1R_u87s70MZTDtKeG5yn7Hts)<br>
+  &emsp;&emsp;&emsp;:closed_book: [:fire:	<b>12</b> Free Important Books :fire:](https://github.com/Moataz-Elmesmary/Data-Science-Roadmap/tree/main/Books)<br>
         &emsp;&emsp;&emsp;:closed_book: [Mathematics for Machine Learning ](https://mml-book.github.io/)<br>
         &emsp;&emsp;&emsp;:closed_book: [An Introduction to Statistical Learning](https://www.statlearning.com/)<br>
         &emsp;&emsp;&emsp;:closed_book: [Understanding ML: From Theory to Algorithms ](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf)<br>
         &emsp;&emsp;&emsp;:closed_book: [Probabilistic Machine Learning: An Introduction](https://probml.github.io/pml-book/book1.html)<br>
-        &emsp;&emsp;&emsp;:closed_book: [storytelling with data](https://drive.google.com/file/d/1OQu6ZWImGnHbuI_WJOLPdSvKWCABSWMH/view?usp=sharing) Important data visualization guide.<br>
+        &emsp;&emsp;&emsp;:closed_book: [storytelling with data](https://drive.google.com/file/d/1OQu6ZWImGnHbuI_WJOLPdSvKWCABSWMH/view?usp=sharing) ✔️Important data visualization guide.<br>
         
 ***
 <details>
@@ -400,7 +402,7 @@ Deep Learning - MIT](http://introtodeeplearning.com/?fbclid=IwAR35rIygYlCn84DV7m
 21. [Machine Learning Cheat Sheets (Recommended Guide)](https://drive.google.com/file/d/1rQRJvWk5s9rUCesri0apxutbF4eDHR69/view?usp=sharing) *راجع المواضيع اللي في الشيت دي يا عزيزي وشوف اللي ناقصك* </details> 
 ***
 
-### The best way to practice is to take part in competitions. :trophy::trophy: <img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif"  width="30px" height="30px"><img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif"  width="30px" height="30px">	<br>
+### The best way to practice is to take part in competitions. <img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif"  width="30px" height="30px"><img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif"  width="30px" height="30px">	<br>
 **Competitions will make you even more proficient in Data Science.**<br>
 When we talk about top data science competitions, [**Kaggle**](https://www.kaggle.com/) is one of the most popular platforms for data science. Kaggle has a lot of competitions where you can participate according to your knowledge level.<br>
 
