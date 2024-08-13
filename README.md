@@ -76,6 +76,7 @@ more interesting bits.</i><br>
 **2. Probability**<br>
 &emsp;&emsp;&emsp;📹 [Khan Academy](https://www.khanacademy.org/math/statistics-probability/probability-library)<br>
 &emsp;&emsp;&emsp;📹 [Arabic Course](https://www.youtube.com/playlist?list=PL158D091D26F47358)<br>
+&emsp;&emsp;&emsp;📹 [Probability and Statistics for AI and DS - Arabic (Dr.Hatem Elattar)](https://www.youtube.com/playlist?list=PLJM7jJIw2GC2Ihr__bRSeMxzsiFMZEsx7)<br>
 &emsp;&emsp;&emsp;📕 [Introduction to Probability](https://drive.google.com/file/d/15Y0oFNHQRls1qvQNvO3DFLJVhIZvUjTD/view?usp=sharing)<br>
 
 **3. Programming Languages**<br>
@@ -149,9 +150,11 @@ Note: it's already mentioned in the above probability course <br>
          &emsp;&emsp;&emsp;📹 SQL for Data Analysis ([Udacity](https://www.udacity.com/course/sql-for-data-analysis--ud198)-notes[*l📋l*](https://github.com/julianjohannesen/Udacity-SQL-Notes/tree/main) or [simplilearn](https://www.simplilearn.com/free-online-course-to-learn-sql-basics-skillup))<br>
          &emsp;&emsp;&emsp;📹 [Intro to SQL](https://learn.datacamp.com/courses/introduction-to-sql) **or** [IBM (SQL for Data Science)](https://www.coursera.org/learn/sql-data-science)<br>
          &emsp;&emsp;&emsp;📹 [Intro to Relational Databases in SQL](https://learn.datacamp.com/courses/introduction-to-relational-databases-in-sql)<br>
-         &emsp;&emsp;&emsp;📹 [Arabic Course](https://www.youtube.com/watch?v=B7evUQGmN6M&list=PLfM2wZNebA2zROxUcAbGxNrpVZncsF3oD)<br>
-         &emsp;&emsp;&emsp;📹 [Arabic -ITI by Eng.Ramy](https://www.youtube.com/playlist?list=PLSGEGD0dbMKrvd5ppnyFLm7q3xEH97T-t) *Advanced* - [[Course Materials]](https://drive.google.com/drive/folders/1P_uUWl6pBPC3MFrqR_ovoJQNCZhi9rAS?fbclid=IwAR1EyxPR3pLXABIcK2bkgh4_HYNSowb01Kij8OiHFh_x5maiqsiwvJNHvXg)<br>
+         &emsp;&emsp;&emsp;📹 Arabic Course ([Theoritical](https://www.youtube.com/playlist?list=PL37D52B7714788190) - [Practical](https://www.youtube.com/playlist?list=PL1DUmTEdeA6J6oDLTveTt4Z7E5qEfFluE)) Eldesouki<br>
+         &emsp;&emsp;&emsp;📹 Arabic - [ITI by Eng.Ramy](https://www.youtube.com/playlist?list=PLSGEGD0dbMKrvd5ppnyFLm7q3xEH97T-t) *Advanced* - *[[Notes]](https://relic-dimple-eee.notion.site/SQL-c11692abdd894c89ab73d82545db0e63?pvs=4)📋*- [[Course Materials]](https://drive.google.com/drive/folders/1P_uUWl6pBPC3MFrqR_ovoJQNCZhi9rAS?fbclid=IwAR1EyxPR3pLXABIcK2bkgh4_HYNSowb01Kij8OiHFh_x5maiqsiwvJNHvXg)<br>
+         &emsp;&emsp;&emsp;📹 Arabic - [SQL for Data Analysis](https://www.youtube.com/watch?v=kb-_GbpH3sQ&t=38s) by Ahmed Sami<br>
          &emsp;&emsp;&emsp;📹 [365 Data Science - SQL](https://mega.nz/folder/wswGEIhb#tsqUggTZyfy5HyRWUkV9sg/folder/R1AxXCxB)<br>
+         &emsp;&emsp;&emsp;📹 [CMU Intro to DB - Fall 2022](https://www.youtube.com/playlist?list=PLSE8ODhjZXjaKScG3l0nuOiDTTqpfnWFf) - *<[Schedule📅](https://15445.courses.cs.cmu.edu/fall2022/schedule.html)>* - [Book📕](https://github.com/Moataz-Elmesmary/Data-Science-Roadmap/blob/main/Books/Abraham%20Silberschatz%2C%20Henry%20Korth%20and%20S.%20Sudarshan%20-%20Database%20System%20Concepts.%207-McGraw-Hill%20Education%20(2020).pdf)<br>
          &emsp;&emsp;&emsp;📝 Practice [HackerRank](https://www.hackerrank.com/domains/sql) & [DataLemur](https://datalemur.com/)
 
 **12. Python Regular Expression**<br>
@@ -228,7 +231,7 @@ APIs <br>
         &emsp;&emsp;&emsp;📕 [Kaggle ML explainability](https://www.kaggle.com/learn/machine-learning-explainability)<br/>
 <h4><i>After finishing this level apply to 2 or 3 good sized projects.</i></h4>
 
-<i>Read this book, please</i> :open_book: [Introduction to Statistical Learning with Applications in R](https://github.com/Moataz-Elmesmary/Data-Science-Roadmap/blob/main/Introduction%20to%20Statistical%20Learning%20with%20Applications%20in%20R.pdf) بقولك اقرأه<img src="https://c.tenor.com/SOVMSXmWB1kAAAAi/tony-star-jumping.gif" width="35"><br>
+<i>Read this book, please</i> :open_book: [Introduction to Statistical Learning with Applications in R](https://github.com/Moataz-Elmesmary/Data-Science-Roadmap/blob/main/Books/Introduction%20to%20Statistical%20Learning%20with%20Applications%20in%20R.pdf) بقولك اقرأه<img src="https://c.tenor.com/SOVMSXmWB1kAAAAi/tony-star-jumping.gif" width="35"><br>
 ***
 ## 🔰 Advanced 🔰
 
