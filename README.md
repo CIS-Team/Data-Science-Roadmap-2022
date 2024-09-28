@@ -132,6 +132,8 @@ Note: it's already mentioned in the above probability course <br>
         &emsp;&emsp;&emsp;📹 [DataCamp-EDA in Python](https://learn.datacamp.com/courses/exploratory-data-analysis-in-python) <br>
         &emsp;&emsp;&emsp;📹 [IBM-EDA for Machine Learning](https://www.coursera.org/learn/ibm-exploratory-data-analysis-for-machine-learning) <br>
 
+<img align="right" width="290" height="203" src="https://github.com/user-attachments/assets/6b55d5e6-1253-417e-8e24-f29e95acb949">
+
 **10. Dashboards**<br>
 
 &emsp;*Power BI*<br>
@@ -309,6 +311,7 @@ Deep Learning - MIT](http://introtodeeplearning.com/?fbclid=IwAR35rIygYlCn84DV7m
 
 
 **6. Inferential Statistics** <br>
+<img align="right" width="158" height="200" src="https://github.com/user-attachments/assets/924bb6b4-b855-491d-ab80-3b9ce7d28669">
         &emsp;&emsp;&emsp;📹 [Specialization, 2nd & 3rd courses](https://www.coursera.org/specializations/statistics-with-python)<br>
         &emsp;&emsp;&emsp;📹 [course](https://www.coursera.org/learn/statistical-inferences)<br>
 **7. Bayesian Statistics**<br>
@@ -365,7 +368,7 @@ English | Arabic | Book
 
 ***       
 ### :pushpin: **More Books :atom::atom: [:pushpin: Check This!](https://drive.google.com/drive/folders/1iW7IPrVUqsHumgXUMH_rgeBLpJjRDCmJ?usp=sharing)** 	<br>
-<img align="right" width="309" height="250" src="https://github.com/Moataz-Elmesmary/Data-Science-Roadmap/assets/92026137/b41c09b2-47c4-4ee3-b932-eb14b1c243bf">
+<img align="right" width="250" height="197" src="https://github.com/Moataz-Elmesmary/Data-Science-Roadmap/assets/92026137/b41c09b2-47c4-4ee3-b932-eb14b1c243bf">
 
   &emsp;&emsp;📕 [:fire:	<b>12</b> Free Important Books :fire:](https://github.com/Moataz-Elmesmary/Data-Science-Roadmap/tree/main/Books)<br>
         &emsp;&emsp;📕 [Mathematics for Machine Learning ](https://mml-book.github.io/)<br>
