@@ -1,5 +1,5 @@
 <img align="center" width="730" height="720" src="https://github.com/Moataz-Elmesmary/Data-Science-Roadmap/assets/92026137/95f2d5a6-990b-46cf-90c1-098059a9c706">
-<h2>&emsp;&emsp;&emsp;&emsp; DATA SCIENCE ROADMAP :pirate_flag: 2024 </h2>
+<h2>&emsp;&emsp;&emsp;&emsp; DATA SCIENCE ROADMAP :pirate_flag: 2025 </h2>
  
 ### Data Science Roadmap for anyone interested in how to break into the field!
 
@@ -75,6 +75,7 @@ more interesting bits.</i><br>
 
 **2. Probability**<br>
 &emsp;&emsp;&emsp;📹 [Khan Academy](https://www.khanacademy.org/math/statistics-probability/probability-library)<br>
+&emsp;&emsp;&emsp;📹 [Probability Bootcamp by Dr.Steve - Oct 2024- Youtube](https://www.youtube.com/playlist?list=PLMrJAkhIeNNR3sNYvfgiKgcStwuPSts9V)<br>
 &emsp;&emsp;&emsp;📹 [Arabic Course](https://www.youtube.com/playlist?list=PL158D091D26F47358)<br>
 &emsp;&emsp;&emsp;📹 [Probability and Statistics for AI and DS - Arabic (Dr.Hatem Elattar)](https://www.youtube.com/playlist?list=PLJM7jJIw2GC2Ihr__bRSeMxzsiFMZEsx7)<br>
 &emsp;&emsp;&emsp;📕 [Introduction to Probability](https://drive.google.com/file/d/15Y0oFNHQRls1qvQNvO3DFLJVhIZvUjTD/view?usp=sharing)<br>
